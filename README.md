@@ -1,7 +1,7 @@
-# Hi folks, I'm Danny! 👋 
+# Hi, I'm Danny! 👋 
 
-- 🌱 I’m currently learning web development 🚀
-- 🤜🤛 I’d love to collabroate
+- 🌱 I’m currently learning web development with the School of Code 🚀
+- 🤜🤛 I’d love to collabroate on projects!
 
 <br>
 <br>
@@ -14,7 +14,7 @@
 
 </details>
 
-[website]: https://dannykryan.com
+[website]: https://dannykryan.com (Coming Soon)
 
 <!---
 dannykryan/dannykryan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
