@@ -1,9 +1,5 @@
 # Hi folks, I'm Danny! 👋 
 
-[![Website](https://www.dannykryan.com)](dannykryan.com)
-
-## Surfin' the net since '97!
-
 - 🌱 I’m currently learning web development 🚀
 - 🤜🤛 I’d love to collabroate
 
