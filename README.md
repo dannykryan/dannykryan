@@ -1,5 +1,24 @@
-# 💫 About Me:
-# Danny Ryan<br><br>## About Me<br><br><font size="2">Hello there! 👋 I'm Danny, a junior dev who loves design based in Birmingham, UK. I love to mke things that bring smile to people's faces and  and when I'm not developeing you can find me tinkering on all manner of creative projects from graphic design to music and carpentry!</font><br><br>## 🔧 Technologies & Tools<br><br><font size="2">- **Programming Languages:** Javascript<br>- **Web Technologies:** HTML5, CSS3, React.js, Next.js<br>- **Back-End Technologies** Node.js<br>- **Database Systems:** SQL, Supabase<br>- **Version Control** Git, Github</font><br><br>## 🌱 Currently Learning<br><br><font size="2">I'm always eager to expand my knowledge, and the projects you will find here are a reflection of this! Currently I'm learning how  I can use Tailwind CSS and MongoDB to enhance my builds.<br><br>- Personal Website  (Coming Soon) www.dannykryan.com<br><br>Feel free to reach out if you share similar interests or if you have any exciting projects in mind. Let's connect and create something amazing together!</font>
+# Danny Ryan
+## 💫 About Me:
+
+Hello there! 👋 I'm Danny, a junior dev who loves design based in Birmingham, UK. I love to make things that bring a smile to people's faces. When I'm not developing, you can find me tinkering on all manner of creative projects from graphic design to music and carpentry!
+
+## 🔧 Technologies & Tools
+
+- **Programming Languages:** Javascript
+- **Web Technologies:** HTML5, CSS3, React.js, Next.js
+- **Back-End Technologies:** Node.js
+- **Database Systems:** SQL, Supabase
+- **Version Control:** Git, Github
+
+## 🌱 Currently Learning
+
+I'm always eager to expand my knowledge, and the projects you will find here are a reflection of this! Currently, I'm learning how I can use Tailwind CSS and MongoDB to enhance my builds.
+
+- Personal Website (Coming Soon) [www.dannykryan.com](www.dannykryan.com)
+
+Feel free to reach out if you share similar interests or if you have any exciting projects in mind. Let's connect and create something amazing together!
+
 
 
 ## 🌐 Socials:
