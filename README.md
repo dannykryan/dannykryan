@@ -1,9 +1,9 @@
 # Danny Ryan
-## 💫 About Me:
+## 🧙‍♂️ About Me:
 
 Hello there! 👋 I'm Danny, a junior dev who loves design based in Birmingham, UK. I love to make things that bring a smile to people's faces. When I'm not developing, you can find me tinkering on all manner of creative projects from graphic design to music and carpentry!
 
-## 🔧 Technologies & Tools
+## 💻 Technologies & Tools
 
 - **Programming Languages:** Javascript
 - **Web Technologies:** HTML5, CSS3, React.js, Next.js
@@ -11,7 +11,7 @@ Hello there! 👋 I'm Danny, a junior dev who loves design based in Birmingham, 
 - **Database Systems:** SQL, Supabase
 - **Version Control:** Git, Github
 
-## 🌱 Currently Learning
+## 📚 Currently Learning
 
 I'm always eager to expand my knowledge, and the projects you will find here are a reflection of this! Currently, I'm learning how I can use Tailwind CSS and MongoDB to enhance my builds.
 
