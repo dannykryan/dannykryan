@@ -15,7 +15,7 @@ Hello there! 👋 I'm Danny, a junior dev who loves design based in Birmingham, 
 
 I'm always eager to expand my knowledge, and the projects you will find here are a reflection of this! Currently, I'm learning how I can use Tailwind CSS and MongoDB to enhance my builds.
 
-- Personal Website (Coming Soon) [www.dannykryan.com](www.dannykryan.com)
+- Personal Website [www.dannykryan.com](www.dannykryan.com)
 
 Feel free to reach out if you share similar interests or if you have any exciting projects in mind. Let's connect and create something amazing together!
 
