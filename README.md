@@ -1,7 +1,7 @@
 # Danny Ryan
 ## 🧙‍♂️ About Me:
 
-Hello there! 👋 I'm Danny, a junior dev who loves design based in Birmingham, UK. I love to make things that bring a smile to people's faces. When I'm not developing, you can find me tinkering on all manner of creative projects from graphic design to music and carpentry!
+Hello there! 👋 I'm Danny, a junior dev who loves design based in Birmingham, UK. I love to make things that bring a smile to people's faces. When I'm not developing, I might be making music, riding my bike or playing video games that are almost as old as I am!
 
 ## 💻 Technologies & Tools
 
