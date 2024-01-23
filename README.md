@@ -13,7 +13,7 @@ Hello there! 👋 I'm Danny, a junior dev who loves design based in Birmingham, 
 
 ## ⚙ Projects
 
-These are some of the projects I built when I was a bootcamper. They helped me understand more about JS, CSS, PorstgreSQL, TS, API's, design, and breaking down problems.
+These are some of the projects I built when I was a bootcamper. They helped me understand more about JS, TS, CSS, databases API's, design, and breaking down problems.
 
 <table>
   <tr>
