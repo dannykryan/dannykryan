@@ -11,6 +11,92 @@ Hello there! 👋 I'm Danny, a junior dev who loves design based in Birmingham, 
 - **Database Systems:** SQL, Supabase
 - **Version Control:** Git, Github
 
+## ⚙ Projects
+
+These are some of the projects I built when I was a bootcamper. They helped me understand more about JS, CSS, PorstgreSQL, TS, API's, design, and breaking down problems.
+
+<table>
+  <tr>
+    <th>Project</th>
+    <th></th>
+    <th></th>
+    <th>Tech</th>
+  </tr>
+  <tr>
+    <td>Habitap ⭐⭐</td>
+    <td><a href="https://github.com/dannykryan/habitap">Github</a></td>
+    <td><a href="https://habitap.vercel.app/">Demo</a></td>
+    <td>TS, React, Next.js, Supabase, Lottiefiles</td>
+  </tr>
+  <tr>
+    <td>Study Buddy ⭐</td>
+    <td><a href="https://github.com/dannykryan/studybuddy">Github</a></td>
+    <td><a href="https://study-buddy-9en0.onrender.com/">Demo</a></td>
+    <td>JS, HTML, CSS, SQL, Render</td>
+  </tr>
+  <tr>
+    <td>Choose Your Own Adventure</td>
+    <td><a href="https://github.com/dannykryan/soc12-typescript-adventure">Github</a></td>
+    <td><a href=""></a></td>
+    <td>Vite, TS</td>
+  </tr>
+  <tr>
+    <td>Next.js Blog Site</td>
+    <td><a href="https://github.com/dannykryan/soc11-next-blog">Github</a></td>
+    <td><a href=""></a></td>
+    <td>React</td>
+  </tr>
+  <tr>
+    <td>React Art Gallery</td>
+    <td><a href="https://github.com/dannykryan/soc10-react-gallery">Github</a></td>
+    <td><a href=""></a></td>
+    <td>React</td>
+  </tr>
+  <tr>
+    <td>CRUD Note Taker</td>
+    <td><a href="https://github.com/dannykryan/soc-9-crud-note-taker">Github</a></td>
+    <td><a href=""></a></td>
+    <td>JS, HTML, CSS, SQL</td>
+  </tr>
+  <tr>
+    <td>BBC Sports Clone</td>
+    <td><a href="https://github.com/dannykryan/soc7-bbcSporks">Github</a></td>
+    <td><a href=""></a></td>
+    <td>HTML, CSS</td>
+  </tr>
+  <tr>
+    <td>Testathon!</td>
+    <td><a href="https://github.com/dannykryan/soc6-testathon">Github</a></td>
+    <td><a href=""></a></td>
+    <td>Playwright, Vitest</td>
+  </tr>
+  <tr>
+    <td>API with Database</td>
+    <td><a href="https://github.com/dannykryan/soc5-apiWithDatabase">Github</a></td>
+    <td><a href=""></a></td>
+    <td>JS, HTML, CSS, SQL</td>
+  </tr>
+  <tr>
+    <td>Songs API</td>
+    <td><a href="https://github.com/dannykryan/soc4-buildAnAPI">Github</a></td>
+    <td><a href=""></a></td>
+    <td>JS, HTML, CSS</td>
+  </tr>
+  <tr>
+    <td>Weather App</td>
+    <td><a href="https://github.com/dannykryan/soc3-weatherApp">Github</a></td>
+    <td><a href="https://dannykryan.github.io/soc3-weatherApp">Demo</a></td>
+    <td>JS, HTML, CSS</td>
+  </tr>
+  <tr>
+    <td>Rock, Paper, Scissors in alerts!</td>
+    <td><a href="https://github.com/dannykryan/soc2-rockPaperScissors">Github</a></td>
+    <td><a href="https://github.com/dannykryan/soc2-rockPaperScissors">Demo</a></td>
+    <td>JS, HTML, CSS</td>
+  </tr>
+  
+</table>
+
 ## 📚 Currently Learning
 
 I'm always eager to expand my knowledge, and the projects you will find here are a reflection of this! Currently, I'm learning how I can use Tailwind CSS and MongoDB to enhance my builds.
