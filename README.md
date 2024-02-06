@@ -101,7 +101,7 @@ These are some of the projects I built when I was a bootcamper. They helped me u
 
 I'm always eager to expand my knowledge, and the projects you will find here are a reflection of this! Currently, I'm learning how I can use Tailwind CSS and MongoDB to enhance my builds.
 
-- Personal Website [www.dannykryan.com](www.dannykryan.com)
+- Personal Website [Personal Website](http://www.dannykryan.com)
 
 Feel free to reach out if you share similar interests or if you have any exciting projects in mind. Let's connect and create something amazing together!
 
