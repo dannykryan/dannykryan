@@ -1,7 +1,7 @@
 # Danny Ryan
 ## 🧙‍♂️ About Me:
 
-Hello there! 👋 I'm Danny, a junior dev who loves design based in Birmingham, UK. I love to make things that bring a smile to people's faces. When I'm not developing, I might be making music, riding my bike or playing video games that are almost as old as I am!
+Hello there! 👋 I'm Danny, a junior dev who loves design based in Birmingham, UK. I recently left my career in communications and marketing to embrace my love of learning and pursue a worthwhile and challenging career as a developer.
 
 ## 💻 Technologies & Tools
 
@@ -11,7 +11,7 @@ Hello there! 👋 I'm Danny, a junior dev who loves design based in Birmingham, 
 - **Database Systems:** SQL, Supabase
 - **Version Control:** Git, Github
 
-## ⚙ Projects
+## ⚙ Bootcamp Projects
 
 These are some of the projects I built when I was a bootcamper. They helped me understand more about JS, TS, CSS, databases API's, design, and breaking down problems.
 
@@ -34,53 +34,10 @@ These are some of the projects I built when I was a bootcamper. They helped me u
     <td><a href="https://study-buddy-9en0.onrender.com/">Demo</a></td>
     <td>JS, HTML, CSS, SQL, Render</td>
   </tr>
-  <tr>
-    <td>Choose Your Own Adventure</td>
-    <td><a href="https://github.com/dannykryan/soc12-typescript-adventure">Github</a></td>
-    <td><a href=""></a></td>
-    <td>Vite, TS</td>
-  </tr>
-  <tr>
     <td>Next.js Blog Site</td>
     <td><a href="https://github.com/dannykryan/soc11-next-blog">Github</a></td>
     <td><a href=""></a></td>
     <td>React</td>
-  </tr>
-  <tr>
-    <td>React Art Gallery</td>
-    <td><a href="https://github.com/dannykryan/soc10-react-gallery">Github</a></td>
-    <td><a href=""></a></td>
-    <td>React</td>
-  </tr>
-  <tr>
-    <td>CRUD Note Taker</td>
-    <td><a href="https://github.com/dannykryan/soc-9-crud-note-taker">Github</a></td>
-    <td><a href=""></a></td>
-    <td>JS, HTML, CSS, SQL</td>
-  </tr>
-  <tr>
-    <td>BBC Sports Clone</td>
-    <td><a href="https://github.com/dannykryan/soc7-bbcSporks">Github</a></td>
-    <td><a href=""></a></td>
-    <td>HTML, CSS</td>
-  </tr>
-  <tr>
-    <td>Testathon!</td>
-    <td><a href="https://github.com/dannykryan/soc6-testathon">Github</a></td>
-    <td><a href=""></a></td>
-    <td>Playwright, Vitest</td>
-  </tr>
-  <tr>
-    <td>API with Database</td>
-    <td><a href="https://github.com/dannykryan/soc5-apiWithDatabase">Github</a></td>
-    <td><a href=""></a></td>
-    <td>JS, HTML, CSS, SQL</td>
-  </tr>
-  <tr>
-    <td>Songs API</td>
-    <td><a href="https://github.com/dannykryan/soc4-buildAnAPI">Github</a></td>
-    <td><a href=""></a></td>
-    <td>JS, HTML, CSS</td>
   </tr>
   <tr>
     <td>Weather App</td>
@@ -88,10 +45,41 @@ These are some of the projects I built when I was a bootcamper. They helped me u
     <td><a href="https://dannykryan.github.io/soc3-weatherApp">Demo</a></td>
     <td>JS, HTML, CSS</td>
   </tr>
+  
+</table>
+
+## ✏ Other Projects
+
+Here are some other projects that I've been working on
+
+<table>
   <tr>
-    <td>Rock, Paper, Scissors in alerts!</td>
-    <td><a href="https://github.com/dannykryan/soc2-rockPaperScissors">Github</a></td>
-    <td><a href="https://github.com/dannykryan/soc2-rockPaperScissors">Demo</a></td>
+    <th>Project</th>
+    <th></th>
+    <th></th>
+    <th>Tech</th>
+  </tr>
+  <tr>
+    <td>My Profile Site</td>
+    <td><a href="https://github.com/dannykryan/habitap">Github</a></td>
+    <td><a href="https://www.dannykryan.com">Website</a></td>
+    <td>TS, React, Next.js, Tailwind CSS</td>
+  </tr>
+  <tr>
+    <td>Rise Therapies Website</td>
+    <td><a href="https://github.com/dannykryan/studybuddy">Github</a></td>
+    <td><a href="https://www.rise-therapies.co.uk/">Website</a></td>
+    <td>Vanilla HTML & CSS</td>
+  </tr>
+    <td>Datamath Calculator</td>
+    <td><a href="https://github.com/dannykryan/datamath-calculator">Github</a></td>
+    <td><a href="https://dannykryan.github.io/datamath-calculator/">Demo</a></td>
+    <td>JS, HTML, CSS</td>
+  </tr>
+  <tr>
+    <td>Joke Generator</td>
+    <td><a href="https://github.com/dannykryan/Joke-Generator">Github</a></td>
+    <td><a href="https://dannykryan.github.io/Joke-Generator/">Demo</a></td>
     <td>JS, HTML, CSS</td>
   </tr>
   
