@@ -61,13 +61,13 @@ Here are some other projects that I've been working on
   </tr>
   <tr>
     <td>My Profile Site</td>
-    <td><a href="https://github.com/dannykryan/habitap">Github</a></td>
+    <td><a href="https://github.com/dannykryan/dannykryan.com">Github</a></td>
     <td><a href="https://www.dannykryan.com">Website</a></td>
     <td>TS, React, Next.js, Tailwind CSS</td>
   </tr>
   <tr>
     <td>Rise Therapies Website</td>
-    <td><a href="https://github.com/dannykryan/studybuddy">Github</a></td>
+    <td><a href="https://github.com/dannykryan/rise-therapies">Github</a></td>
     <td><a href="https://www.rise-therapies.co.uk/">Website</a></td>
     <td>Vanilla HTML & CSS</td>
   </tr>
