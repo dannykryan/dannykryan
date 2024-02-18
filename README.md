@@ -13,7 +13,7 @@ Hello there! 👋 I'm Danny, a junior dev who loves design based in Birmingham, 
 
 ## ⚙ Bootcamp Projects
 
-These are some of the projects I built when I was a bootcamper. They helped me understand more about developing with teams using agile methodology as well as using JS, TS, CSS, databases, UI/UX design, and breaking down problems. 
+These are some of the projects I built when I was a bootcamper with the School of Code's full-stack developer bootcamp. They helped me understand more about developing with teams using agile methodology as well as using JS, TS, CSS, databases, UI/UX design, and much more. 
 
 <table>
   <tr>
