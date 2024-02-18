@@ -43,7 +43,7 @@ These are some of the projects I built when I was a bootcamper. They helped me u
     <td>Weather App</td>
     <td><a href="https://github.com/dannykryan/soc3-weatherApp">Github</a></td>
     <td><a href="https://dannykryan.github.io/soc3-weatherApp">Demo</a></td>
-    <td>JS, HTML, CSS</td>
+    <td>JS, HTML, CSS, APIs</td>
   </tr>
   
 </table>
@@ -80,7 +80,13 @@ Here are some other projects that I've been working on
     <td>Joke Generator</td>
     <td><a href="https://github.com/dannykryan/Joke-Generator">Github</a></td>
     <td><a href="https://dannykryan.github.io/Joke-Generator/">Demo</a></td>
-    <td>JS, HTML, CSS</td>
+    <td>JS, HTML, CSS, APIs</td>
+  </tr>
+  <tr>
+    <td>Brainbot Must Be Defeated</td>
+    <td><a href="https://github.com/dannykryan/RockPaperScissors">Github</a></td>
+    <td><a href="https://github.com/dannykryan/RockPaperScissors.git">Demo</a></td>
+    <td>JS, HTML, CSS, APIs</td>
   </tr>
   
 </table>
