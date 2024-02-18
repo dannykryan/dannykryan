@@ -13,7 +13,7 @@ Hello there! 👋 I'm Danny, a junior dev who loves design based in Birmingham, 
 
 ## ⚙ Bootcamp Projects
 
-These are some of the projects I built when I was a bootcamper. They helped me understand more about JS, TS, CSS, databases API's, design, and breaking down problems.
+These are some of the projects I built when I was a bootcamper. They helped me understand more about developing with teams using agile methodology as well as using JS, TS, CSS, databases, UI/UX design, and breaking down problems. 
 
 <table>
   <tr>
@@ -34,23 +34,12 @@ These are some of the projects I built when I was a bootcamper. They helped me u
     <td><a href="https://study-buddy-9en0.onrender.com/">Demo</a></td>
     <td>JS, HTML, CSS, SQL, Render</td>
   </tr>
-    <td>Next.js Blog Site</td>
-    <td><a href="https://github.com/dannykryan/soc11-next-blog">Github</a></td>
-    <td><a href=""></a></td>
-    <td>React</td>
-  </tr>
-  <tr>
-    <td>Weather App</td>
-    <td><a href="https://github.com/dannykryan/soc3-weatherApp">Github</a></td>
-    <td><a href="https://dannykryan.github.io/soc3-weatherApp">Demo</a></td>
-    <td>JS, HTML, CSS, APIs</td>
-  </tr>
   
 </table>
 
 ## ✏ Other Projects
 
-Here are some other projects that I've been working on
+Here are some other projects that I've been working on in my spare time:
 
 <table>
   <tr>
@@ -87,6 +76,18 @@ Here are some other projects that I've been working on
     <td><a href="https://github.com/dannykryan/RockPaperScissors">Github</a></td>
     <td><a href="https://dannykryan.github.io/RockPaperScissors/">Demo</a></td>
     <td>JS, HTML, CSS</td>
+  </tr>
+  <tr>
+    <td>Next.js Blog Site</td>
+    <td><a href="https://github.com/dannykryan/soc11-next-blog">Github</a></td>
+    <td><a href=""></a></td>
+    <td>React, Next.js</td>
+  </tr>
+  <tr>
+    <td>Weather App</td>
+    <td><a href="https://github.com/dannykryan/soc3-weatherApp">Github</a></td>
+    <td><a href="https://dannykryan.github.io/soc3-weatherApp">Demo</a></td>
+    <td>JS, HTML, CSS, APIs</td>
   </tr>
   
 </table>
