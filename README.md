@@ -69,7 +69,7 @@ Here are some other projects that I've been working on
     <td>Rise Therapies Website</td>
     <td><a href="https://github.com/dannykryan/rise-therapies">Github</a></td>
     <td><a href="https://www.rise-therapies.co.uk/">Website</a></td>
-    <td>Vanilla HTML & CSS</td>
+    <td>HTML & CSS</td>
   </tr>
     <td>Datamath Calculator</td>
     <td><a href="https://github.com/dannykryan/datamath-calculator">Github</a></td>
@@ -86,7 +86,7 @@ Here are some other projects that I've been working on
     <td>Brainbot Must Be Defeated</td>
     <td><a href="https://github.com/dannykryan/RockPaperScissors">Github</a></td>
     <td><a href="https://dannykryan.github.io/RockPaperScissors/">Demo</a></td>
-    <td>JS, HTML, CSS, APIs</td>
+    <td>JS, HTML, CSS</td>
   </tr>
   
 </table>
