@@ -92,16 +92,6 @@ Here are some other projects that I've been working on in my spare time:
   
 </table>
 
-## 📚 Currently Learning
-
-I'm always eager to expand my knowledge, and the projects you will find here are a reflection of this! Currently, I'm learning how I can use Tailwind CSS and MongoDB to enhance my builds.
-
-- Personal Website [Personal Website](http://www.dannykryan.com)
-
-Feel free to reach out if you share similar interests or if you have any exciting projects in mind. Let's connect and create something amazing together!
-
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/danny.k.ryan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danny-ryan-058752108) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dannykryan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@dannykryan) 
 
