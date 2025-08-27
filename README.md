@@ -16,10 +16,10 @@ When I'm not building things, I'm into retro games, music, and fixing things tha
 
 <table>
   <tr>
-    <th>Project</th>
-    <th>Description</th>
-    <th>Links</th>
-    <th>Tech Stack</th>
+    <th width="20%">Project</th>
+    <th width="40%">Description</th>
+    <th width="20%">Links</th>
+    <th width="20%">Tech Stack</th>
   </tr>
   <tr>
     <td><strong>Team Capacity Dashboard</strong></td>
