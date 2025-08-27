@@ -24,25 +24,25 @@ When I'm not building things, I'm into retro games, music, and fixing things tha
   <tr>
     <td><strong>Team Capacity Dashboard</strong></td>
     <td>Full-stack reporting app that centralizes team capacity data, saving hours of manual work each month</td>
-    <td><a href="https://github.com/dannykryan/team-capacity-reporting-dashboard">Private Repo</a></td>
+    <td><a href="https://github.com/dannykryan/team-capacity-reporting-dashboard">Repo</a></td>
     <td>React, Express, Firebase, Tailwind</td>
   </tr>
   <tr>
     <td><strong>Harvest Budget Reporter</strong></td>
     <td>Automated reporting system using Google Apps Script to generate and email project budget reports</td>
-    <td><a href="https://github.com/dannykryan/harvest-budget-report">Private Repo</a></td>
+    <td><a href="https://github.com/dannykryan/harvest-budget-report">Repo</a></td>
     <td>Google Apps Script, Harvest API</td>
   </tr>
   <tr>
     <td><strong>Habitap</strong></td>
     <td>Mobile-first habit tracker with gamified visuals and social features</td>
-    <td><a href="https://github.com/dannykryan/habitap">GitHub</a> • <a href="https://habitap.vercel.app/">Demo</a></td>
+    <td><a href="https://github.com/dannykryan/habitap">Repo</a> • <a href="https://habitap.vercel.app/">Demo</a></td>
     <td>TypeScript, React, Next.js, Supabase</td>
   </tr>
   <tr>
     <td><strong>Portfolio Site</strong></td>
     <td>Personal portfolio showcasing my work and skills</td>
-    <td><a href="https://github.com/dannykryan/dannykryan.com">GitHub</a> • <a href="https://www.dannykryan.com">Live Site</a></td>
+    <td><a href="https://github.com/dannykryan/dannykryan.com">Repo</a> • <a href="https://www.dannykryan.com">Live Site</a></td>
     <td>TypeScript, React, Next.js, Tailwind</td>
   </tr>
 </table>
