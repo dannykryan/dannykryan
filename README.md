@@ -3,7 +3,7 @@
 
 Full-stack developer in Birmingham, UK. I build web solutions that solve real business problems - from React dashboards to WordPress sites. Recently transitioned from marketing/communications to embrace my love of coding and creative problem-solving.
 
-When I'm not building things, I'm into retro games, music, and fixing things that are wonky! 🎮
+When I'm not building things, you can find me playing guitar or leaning piano, renovating houses or tinkering with computers and old games consoles! 🎮
 
 ## 💻 Tech Stack
 
