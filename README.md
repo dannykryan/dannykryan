@@ -55,7 +55,7 @@ I've worked on client projects including:
 - **Interactive HubSpot modules** with complex JavaScript functionality
 - **Full-stack automation tools** that solve real business problems
 
-*Client work repositories available upon request*
+*References from former employers available on request*
 
 ## 🌐 Connect With Me
 
