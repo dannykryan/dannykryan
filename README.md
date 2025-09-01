@@ -31,7 +31,7 @@ When I'm not building things, you can find me playing guitar or learning piano, 
     <td><strong>Harvest Budget Reporter</strong></td>
     <td>Automated reporting system using Google Apps Script to generate and email project budget reports</td>
     <td><a href="https://github.com/dannykryan/harvest-budget-report">Repo</a></td>
-    <td>Google Apps Script, Harvest API</td>
+    <td>Javascript, Google Apps Script, Harvest API</td>
   </tr>
   <tr>
     <td><strong>Habitap</strong></td>
