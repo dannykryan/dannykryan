@@ -22,6 +22,18 @@ When I'm not building things, you can find me playing guitar or learning piano, 
     <th width="20%">Tech Stack</th>
   </tr>
   <tr>
+    <td><strong>ChatApp</strong></td>
+    <td>*IN PROGRESS...* A real-time full-stack chat application built with Next.js, Node.js, WebSockets and Prisma ORM, featuring public and private group rooms, direct messaging, and live presence indicators. The UI is built with Tailwind v4 and backed by a PostgreSQL database hosted on Supabase, with JWT authentication and a Discord-inspired dashboard layout.</td>
+    <td><a href="https://github.com/dannykryan/dannykryan.com">Repo</a> • <a href="https://www.dannykryan.com">Live Site</a></td>
+    <td>TypeScript, React, Next.js, Tailwind, Prisma</td>
+  </tr>
+  <tr>
+    <td><strong>Dannykryan.com Website and Blog</strong></td>
+    <td>A home for my stuff. Now includes a blog that uses Notion as a CMS.</td>
+    <td><a href="https://github.com/dannykryan/dannykryan.com">Repo</a> • <a href="https://www.dannykryan.com">Live Site</a></td>
+    <td>TypeScript, React, Next.js, Tailwind, Notion API</td>
+  </tr>
+  <tr>
     <td><strong>Team Capacity Dashboard</strong></td>
     <td>Full-stack reporting app that centralizes team capacity data, saving hours of manual work each month</td>
     <td><a href="https://github.com/dannykryan/team-capacity-reporting-dashboard">Repo</a></td>
@@ -38,12 +50,6 @@ When I'm not building things, you can find me playing guitar or learning piano, 
     <td>Mobile-first habit tracker with gamified visuals and social features</td>
     <td><a href="https://github.com/dannykryan/habitap">Repo</a> • <a href="https://habitap.vercel.app/">Demo</a></td>
     <td>TypeScript, React, Next.js, Supabase</td>
-  </tr>
-  <tr>
-    <td><strong>Portfolio Site</strong></td>
-    <td>Personal portfolio showcasing my work and skills</td>
-    <td><a href="https://github.com/dannykryan/dannykryan.com">Repo</a> • <a href="https://www.dannykryan.com">Live Site</a></td>
-    <td>TypeScript, React, Next.js, Tailwind</td>
   </tr>
 </table>
 
