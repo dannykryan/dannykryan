@@ -23,9 +23,9 @@ When I'm not building things, you can find me playing guitar or learning piano, 
   </tr>
   <tr>
     <td><strong>ChatApp</strong></td>
-    <td>*IN PROGRESS...* A real-time full-stack chat application built with Next.js, Node.js, WebSockets and Prisma ORM, featuring public and private group rooms, direct messaging, and live presence indicators. The UI is built with Tailwind v4 and backed by a PostgreSQL database hosted on Supabase, with JWT authentication and a Discord-inspired dashboard layout.</td>
-    <td><a href="https://github.com/dannykryan/dannykryan.com">Repo</a> • <a href="https://www.dannykryan.com">Live Site</a></td>
-    <td>TypeScript, React, Next.js, Tailwind, Prisma</td>
+    <td>*IN PROGRESS...* A real-time full-stack chat application featuring public and public and private group rooms, direct messaging, editable user bios and live presence indicators.</td>
+    <td><a href="https://github.com/dannykryan/chatApp">Repo</a></td>
+    <td>TypeScript, React, Next.js, Tailwind, Prisma, PostgreSQL, Supabase</td>
   </tr>
   <tr>
     <td><strong>Dannykryan.com Website and Blog</strong></td>
